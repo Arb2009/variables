@@ -1,0 +1,35 @@
+/* div{
+    /* height: 300px;
+    width: 500px; */
+    /* background-image: linear-gradient(red,yellow,blue); */
+    /* background-image: linear-gradient(to right, red, yellow); */
+    /* background-image: linear-gradient(to left, red, yellow); */
+    /* background-image: radial-gradient( green, yellow,green); */
+ 
+/* .hero{
+    height: 500px;
+    width: 500px;
+    background: linear-gradient(
+        90deg,
+        rgba(2,3,61,0.8) 0%,
+        rgba(0,168,255,0.8) 100%
+    ),
+    url("https://ichef.bbci.co.uk/images/ic/480xn/p03jst35.jpg.webp") ;
+    background-size: cover;
+} */
+
+/* :root{
+    --white: #fff;
+    --zi: black;
+--brand-primary: orange;
+--brand-secondary: green;
+}
+
+body{
+    background-color: var(--brand-primary);
+} */
+
+:root{
+    --purple: purple;
+}
+a{color: var(--purple);}
